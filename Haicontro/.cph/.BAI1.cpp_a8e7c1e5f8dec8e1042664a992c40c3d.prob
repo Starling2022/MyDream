@@ -1,0 +1,1 @@
+{"name":"Local: BAI1","url":"d:\\HSGQG\\Haicontro\\BAI1.cpp","tests":[{"id":1705207687929,"input":"6 16\n2 3 5 7 9 12","output":"4 5"},{"id":1705207743153,"input":"6 14\n2 3 5 7 9 12","output":"1 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\HSGQG\\Haicontro\\BAI1.cpp","group":"local","local":true}

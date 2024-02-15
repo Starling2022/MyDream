@@ -1,0 +1,4 @@
+sudo update-alternatives --config default.plymouth
+sudo update-initramfs -u
+
+https://github.com/fathyar/mac-plymouth

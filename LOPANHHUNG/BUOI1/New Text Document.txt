@@ -1,0 +1,9 @@
+
+#define int long long
+#define FOR(i, a, b) for (int i = (a); i <= (b); ++i)
+#include <bits/stdc++.h>
+using namespace std;
+
+main(){
+	cout << "Hello world";
+}
