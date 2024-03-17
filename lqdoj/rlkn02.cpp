@@ -7,3 +7,12 @@
 #define FILE_IO(filein, fileout) freopen((filein), "r", stdin);freopen((fileout), "w", stdout);
 using namespace std;
 const int N=10000007;
+
+int32_t main(){
+    FAST;
+    int a,b,u,v,dai,rong;
+    cin >> a >> b >> u >> v;
+    dai= u-a;
+    rong= b-v;
+    cout << (dai+rong)*2 << "\n" << dai*rong;
+}
