@@ -8,14 +8,15 @@
 using namespace std;
 const int N=10000007;
 
-string s="L", word;
- n
-int32_t main(void){
-    cin >> word;
-    s+=word;
-    FOR(i,1,s.size()-1){
-        int value = s[i] -'0';
-        cout << s[i] << "\n";
-    }
-    
+void sangnguyento(int l, int r){
+    FOR(i,l)
+}
+
+int sieve(){
+
+}
+
+int32_t main(){
+    cin >> left >> right;
+
 }
